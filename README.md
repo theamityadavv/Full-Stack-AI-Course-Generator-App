@@ -108,12 +108,18 @@ http://127.0.0.1:5000/
 
 ---
 
-## 👩‍💻 Contributors
-Anannya Sigh
+👩‍💻 Contributors
+
+Anannya Singh
+
 Anshika Shukla
+
 Anurag Sharma
+
 Amit Yadav
+
 Ankit Yadav
+
 Aman Kumar Tiwari
 ---
 
