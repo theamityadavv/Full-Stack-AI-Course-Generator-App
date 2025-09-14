@@ -1,10 +1,4 @@
 # 🤖 AI Course Generator  
-
-![Stars](https://img.shields.io/github/stars/your-repo?style=social)  
-![Forks](https://img.shields.io/github/forks/your-repo?style=social)  
-![Issues](https://img.shields.io/github/issues/your-repo)  
-![License](https://img.shields.io/github/license/your-repo)  
-
 ---
 
 ## 🚀 Features
