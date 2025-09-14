@@ -1,4 +1,4 @@
-**AI Course Generator**
+* AI Course Generator *
 
 📌 Overview
 
@@ -106,21 +106,18 @@ http://127.0.0.1:5000/
 * AI chatbot for 24/7 learner assistance.
 * Certification and progress tracking features.
 
+
 ---
+## 👥 Team Members
 
-👩‍💻 Contributors
-
-Anannya Singh
-
-Anshika Shukla
-
-Anurag Sharma
-
-Amit Yadav
-
-Ankit Yadav
-
-Aman Kumar Tiwari
+| Name              | GitHub Profile |
+|-------------------|----------------|
+| Anannya Singh     | [AnannyyaSingh](https://github.com/AnannyyaSingh) |
+| Anshika Shukla    | [Anshika-shukla-03](https://github.com/Anshika-shukla-03) |
+| Amit Yadav        | [theamityadavv](https://github.com/theamityadavv) |
+| Ankit Yadav       | [ankityadav7985](https://github.com/ankityadav7985) |
+| Aman Kumar Tiwari | [Aman200670](https://github.com/Aman200670) |
+| Anurag Sharma     | [Anurag200596](https://github.com/Anurag200596) |
 ---
 
 ## 📜 License
