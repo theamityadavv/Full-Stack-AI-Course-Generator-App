@@ -1,4 +1,4 @@
-*AI Course Generator 
+AI Course Generator 
 ---
 📌 Overview
 
