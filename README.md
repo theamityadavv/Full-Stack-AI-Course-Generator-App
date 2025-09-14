@@ -1,4 +1,4 @@
-# 🤖 AI Course Generator  
+<h1 align="center" style="font-size: 48px;">🤖 AI Course Generator</h1>
 ---
 
 ## 🚀 Features
