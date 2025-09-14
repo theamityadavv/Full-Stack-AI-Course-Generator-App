@@ -1,8 +1,9 @@
-AI Course Generator 
----
-📌 Overview
+# 🤖 AI Course Generator  
 
-AI Course Generator is an intelligent platform that generates **personalized learning paths** based on user interests, skill level, and goals. Instead of offering static pre-defined courses, it leverages **AI/ML algorithms** to recommend tailored course structures for each learner.
+![Stars](https://img.shields.io/github/stars/your-repo?style=social)  
+![Forks](https://img.shields.io/github/forks/your-repo?style=social)  
+![Issues](https://img.shields.io/github/issues/your-repo)  
+![License](https://img.shields.io/github/license/your-repo)  
 
 ---
 
