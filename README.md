@@ -1,5 +1,5 @@
-* AI Course Generator *
-
+*AI Course Generator 
+---
 📌 Overview
 
 AI Course Generator is an intelligent platform that generates **personalized learning paths** based on user interests, skill level, and goals. Instead of offering static pre-defined courses, it leverages **AI/ML algorithms** to recommend tailored course structures for each learner.
